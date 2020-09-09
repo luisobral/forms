@@ -1,0 +1,39 @@
+﻿@page "/Criar/Cadastro"
+@using Forms.Shared
+@using System.ComponentModel.DataAnnotations;
+
+
+<h3>Cadastro do Usuário</h3>
+
+<EditForm Model="usuario" OnSubmit="@Create">
+    <div class="form-group">
+        <label>Usuario:</label>
+        <div class="form-row row">
+            <InputSelect class="form-control col-md-2" @bind-Value="@usuario.Title">
+                <option value="">Selecione o seu Titulo...</option>
+                <option value="Senhor">Sr.</option>
+                <option value="Senhora">Sra.</option>
+            </InputSelect>
+            <InputText class="form-control col-md-5" placeholder="Primeiro Nome" @bind-Value="@usuario.First" />
+            <InputText class="form-control col-md-5" @bind-Value="@usuario.Last" placeholder="Ultimo Nome" />
+        </div>
+        <div class="form-row row">
+            <input class="form-control col-md-2" type="date" @bind-value="@usuario.Birthday" />
+            <input type="email" class="form-control col-md-5" placeholder="Email" />
+            <InputText class="form-control col-md-5" placeholder="Senha" @bind-Value="@usuario.Password" />
+            <InputText class="form-control col-md-5" placeholder="Confirmar a Senha" @bind-Value="@confirm" />
+        </div>
+    </div>
+    <button class="btn" type="submit">Salvar</button>
+</EditForm>
+
+@code {
+    Usuario usuario = new Usuario();
+    string confirm;
+    private void Create()
+    {
+        Console.WriteLine($"{usuario.Title} {usuario.First} {usuario.Last} {usuario.Birthday} {usuario.Email} {usuario.Password}");
+
+    }
+
+}
