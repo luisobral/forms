@@ -5,4 +5,8 @@
     <UserSecretsId>4d0dfab1-9e3d-4e33-a785-013aadb42f5f</UserSecretsId>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="System.ComponentModel.Annotations" Version="4.7.0" />
+  </ItemGroup>
+
 </Project>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\User\\source\\repos\\Forms\\Shared\\Forms.Shared.csproj": {}
+    "D:\\Users\\User\\source\\repos\\forms\\Shared\\Forms.Shared.csproj": {}
   },
   "projects": {
-    "D:\\Users\\User\\source\\repos\\Forms\\Shared\\Forms.Shared.csproj": {
+    "D:\\Users\\User\\source\\repos\\forms\\Shared\\Forms.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\User\\source\\repos\\Forms\\Shared\\Forms.Shared.csproj",
+        "projectUniqueName": "D:\\Users\\User\\source\\repos\\forms\\Shared\\Forms.Shared.csproj",
         "projectName": "Forms.Shared",
-        "projectPath": "D:\\Users\\User\\source\\repos\\Forms\\Shared\\Forms.Shared.csproj",
+        "projectPath": "D:\\Users\\User\\source\\repos\\forms\\Shared\\Forms.Shared.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\User\\source\\repos\\Forms\\Shared\\obj\\",
+        "outputPath": "D:\\Users\\User\\source\\repos\\forms\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -40,6 +40,12 @@
       },
       "frameworks": {
         "netstandard2.1": {
+          "dependencies": {
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

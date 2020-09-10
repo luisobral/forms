@@ -4,6 +4,6 @@ D:\Users\User\source\repos\Forms\Shared\bin\Debug\netstandard2.1\Forms.Shared.pd
 D:\Users\User\source\repos\Forms\Shared\obj\Debug\netstandard2.1\Forms.Shared.csprojAssemblyReference.cache
 D:\Users\User\source\repos\Forms\Shared\obj\Debug\netstandard2.1\Forms.Shared.AssemblyInfoInputs.cache
 D:\Users\User\source\repos\Forms\Shared\obj\Debug\netstandard2.1\Forms.Shared.AssemblyInfo.cs
-D:\Users\User\source\repos\Forms\Shared\obj\Debug\netstandard2.1\Forms.Shared.csproj.CoreCompileInputs.cache
 D:\Users\User\source\repos\Forms\Shared\obj\Debug\netstandard2.1\Forms.Shared.dll
 D:\Users\User\source\repos\Forms\Shared\obj\Debug\netstandard2.1\Forms.Shared.pdb
+D:\Users\User\source\repos\Forms\Shared\obj\Debug\netstandard2.1\Forms.Shared.csproj.CoreCompileInputs.cache

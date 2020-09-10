@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Ez2ixNLuWBlmtpCJ7q9sOqEBbk4ddw+KOyz532Pj8wNyqSP9PqWPI+Mv280QMWpM+MYLEf488cAi6jMgU0FmTA==",
+  "dgSpecHash": "kj/Qwx4Htf1xAmmPey04yP1EmjIrETzirNKjK4GElDu58yVufOYv4K03OyyPWLMPtMeVVZqN9dEe9MuYIjtHOg==",
   "success": true,
-  "projectFilePath": "D:\\Users\\User\\source\\repos\\Forms\\Shared\\Forms.Shared.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Users\\User\\source\\repos\\forms\\Shared\\Forms.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\User\\source\\repos\\Forms\\Client\\Forms.Client.csproj": {}
+    "D:\\Users\\User\\source\\repos\\forms\\Client\\Forms.Client.csproj": {}
   },
   "projects": {
-    "D:\\Users\\User\\source\\repos\\Forms\\Client\\Forms.Client.csproj": {
+    "D:\\Users\\User\\source\\repos\\forms\\Client\\Forms.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\User\\source\\repos\\Forms\\Client\\Forms.Client.csproj",
+        "projectUniqueName": "D:\\Users\\User\\source\\repos\\forms\\Client\\Forms.Client.csproj",
         "projectName": "Forms.Client",
-        "projectPath": "D:\\Users\\User\\source\\repos\\Forms\\Client\\Forms.Client.csproj",
+        "projectPath": "D:\\Users\\User\\source\\repos\\forms\\Client\\Forms.Client.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\User\\source\\repos\\Forms\\Client\\obj\\",
+        "outputPath": "D:\\Users\\User\\source\\repos\\forms\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "D:\\Users\\User\\source\\repos\\Forms\\Shared\\Forms.Shared.csproj": {
-                "projectPath": "D:\\Users\\User\\source\\repos\\Forms\\Shared\\Forms.Shared.csproj"
+              "D:\\Users\\User\\source\\repos\\forms\\Shared\\Forms.Shared.csproj": {
+                "projectPath": "D:\\Users\\User\\source\\repos\\forms\\Shared\\Forms.Shared.csproj"
               }
             }
           }
@@ -45,6 +45,10 @@
       "frameworks": {
         "netstandard2.1": {
           "dependencies": {
+            "Microsoft.AspNetCore.Components.DataAnnotations.Validation": {
+              "target": "Package",
+              "version": "[3.2.0-rc1.20223.4, )"
+            },
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",
               "version": "[3.2.1, )"
@@ -83,14 +87,14 @@
         }
       }
     },
-    "D:\\Users\\User\\source\\repos\\Forms\\Shared\\Forms.Shared.csproj": {
+    "D:\\Users\\User\\source\\repos\\forms\\Shared\\Forms.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\User\\source\\repos\\Forms\\Shared\\Forms.Shared.csproj",
+        "projectUniqueName": "D:\\Users\\User\\source\\repos\\forms\\Shared\\Forms.Shared.csproj",
         "projectName": "Forms.Shared",
-        "projectPath": "D:\\Users\\User\\source\\repos\\Forms\\Shared\\Forms.Shared.csproj",
+        "projectPath": "D:\\Users\\User\\source\\repos\\forms\\Shared\\Forms.Shared.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\User\\source\\repos\\Forms\\Shared\\obj\\",
+        "outputPath": "D:\\Users\\User\\source\\repos\\forms\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -119,6 +123,12 @@
       },
       "frameworks": {
         "netstandard2.1": {
+          "dependencies": {
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

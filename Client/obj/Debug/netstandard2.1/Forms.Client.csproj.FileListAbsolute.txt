@@ -366,8 +366,9 @@ D:\Users\User\source\repos\Forms\Client\obj\Debug\netstandard2.1\staticwebassets
 D:\Users\User\source\repos\Forms\Client\obj\Debug\netstandard2.1\staticwebassets\Forms.Client.StaticWebAssets.xml
 D:\Users\User\source\repos\Forms\Client\obj\Debug\netstandard2.1\Forms.Client.dll
 D:\Users\User\source\repos\Forms\Client\obj\Debug\netstandard2.1\Forms.Client.pdb
-D:\Users\User\source\repos\Forms\Client\obj\Debug\netstandard2.1\integrity\5jP_Xkn9Nx0fug9tvkNoKbbr6_b7stm2F0vgONql0jY=.hash
-D:\Users\User\source\repos\Forms\Client\obj\Debug\netstandard2.1\integrity\vpcXzMWiJ1dl7eHrk2lUafoVPzCUUAtw55X1loiuX0o=.hash
-D:\Users\User\source\repos\Forms\Client\obj\Debug\netstandard2.1\integrity\fg0TYtLiAthY61HUxREHAlMEiZKkXVcNQ49Enu71yy0=.hash
-D:\Users\User\source\repos\Forms\Client\obj\Debug\netstandard2.1\integrity\jjZxMRqwAQKg-jQDPl6kKe9OLSArAXciPP1pAs870kE=.hash
-D:\Users\User\source\repos\Forms\Client\obj\Debug\netstandard2.1\integrity\h0vaebg8T_nDN4Ih2XAv8ZsJa1CF7ZvyNbSaotfrtp0=.hash
+D:\Users\User\source\repos\forms\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll
+D:\Users\User\source\repos\forms\Client\obj\Debug\netstandard2.1\integrity\h0UQ9wTshO0cvIpSg1pxcakPVx9L3QbrTsAW0W7m0Uc=.hash
+D:\Users\User\source\repos\forms\Client\obj\Debug\netstandard2.1\integrity\4fhidlx20N0L2FtUiWUc4iOgz4BM27y_zvsnhchHcdI=.hash
+D:\Users\User\source\repos\forms\Client\obj\Debug\netstandard2.1\integrity\yFHirbewVbvfEvsv6UFigy47b666oY33qUbtsitulsE=.hash
+D:\Users\User\source\repos\forms\Client\obj\Debug\netstandard2.1\integrity\YYjFZ7bH4v-2w_trz-jDisf4Ole9lQREcVXJLPXDtHY=.hash
+D:\Users\User\source\repos\forms\Client\obj\Debug\netstandard2.1\integrity\Tgyk50oc5EeWDz0RXB5II0aH_0sfOMN0iKcR5_Mxirc=.hash
